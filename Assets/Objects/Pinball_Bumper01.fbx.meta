@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 17576b5098c7d437ca1f357d8d02d783
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Band_back
+    100002: Band_front
+    100004: Band_move_control
+    100006: Bumper01
+    100008: clamp
+    100010: controller
+    100012: controller_layer
+    100014: Cylinder_3
+    100016: Cylinder_4
+    100018: Cylinder_5
+    100020: Cylinders
+    100022: Extrude_NURBS
+    100024: Null
+    100026: //RootNode
+    100028: root
+    100030: Top
+    400000: Band_back
+    400002: Band_front
+    400004: Band_move_control
+    400006: Bumper01
+    400008: clamp
+    400010: controller
+    400012: controller_layer
+    400014: Cylinder_3
+    400016: Cylinder_4
+    400018: Cylinder_5
+    400020: Cylinders
+    400022: Extrude_NURBS
+    400024: Null
+    400026: //RootNode
+    400028: root
+    400030: Top
+    2300000: Band_back
+    2300002: Cylinder_3
+    2300004: Cylinder_4
+    2300006: Cylinder_5
+    2300008: Extrude_NURBS
+    3300000: Band_back
+    3300002: Cylinder_3
+    3300004: Cylinder_4
+    3300006: Cylinder_5
+    3300008: Extrude_NURBS
+    4300000: Band_front
+    4300002: Band_back
+    4300004: Cylinder_5
+    4300006: Cylinder_4
+    4300008: Cylinder_3
+    4300010: Extrude_NURBS
+    7400000: Bumper01_Front_Anim
+    9500000: //RootNode
+    13700000: Band_front
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: Bumper01_Front_Anim
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

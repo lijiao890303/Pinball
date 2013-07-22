@@ -33,25 +33,9 @@ public class ColliderDisplayText : MonoBehaviour
 		mText = child.GetComponentInChildren<HUDText>();
 	}
 
-	void OnHover (bool isOver)
-	{
-		if (mText != null && isOver && !mHover)
-		{
-			mHover = true;
-			mText.Add("Left-click, right-click", Color.cyan, 2f);
-		}
-		else if (!isOver)
-		{
-			mHover = false;
-		}
-	}
-
-	void OnClick ()
-	{
-		if (mText != null)
-		{
-			if (UICamera.currentTouchID == -1) mText.Add(-10f + Random.value * -10f, Color.red, 0f);
-			else if (UICamera.currentTouchID == -2) mText.Add(10f + Random.value * 10f, Color.green, 0f);
-		}
-	}
+ void OnCollisionEnter(Collision collision) 
+    {
+    
+        mText.Add("Object Collided " + collision.rigidbody.gameObject.name, Color.cyan, 0f);
+    }
 }

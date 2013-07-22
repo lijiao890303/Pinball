@@ -1,15 +1,15 @@
 fileFormatVersion: 2
-guid: 8a3f7373fcd824c5b8bd2d742f5e9c79
+guid: aec1debcfb2b34144a036f05b8f0f78e
 ModelImporter:
   serializedVersion: 15
   fileIDToRecycleName:
-    100000: Extrude_NURBS
+    100000: Ball
     100002: //RootNode
-    400000: Extrude_NURBS
+    400000: Ball
     400002: //RootNode
-    2300000: Extrude_NURBS
-    3300000: Extrude_NURBS
-    4300000: Extrude_NURBS
+    2300000: Ball
+    3300000: Ball
+    4300000: Ball
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -32,7 +32,7 @@ ModelImporter:
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     weldVertices: 1
