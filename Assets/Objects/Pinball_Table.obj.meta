@@ -5,11 +5,16 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: Table
+    100004: MainFrame
     400000: //RootNode
     400002: Table
+    400004: MainFrame
     2300000: Table
+    2300002: MainFrame
     3300000: Table
+    3300002: MainFrame
     4300000: Table
+    4300002: MainFrame
     9500000: //RootNode
   materials:
     importMaterials: 1
