@@ -1,14 +1,12 @@
 fileFormatVersion: 2
-guid: f30a5a9a068904ee683ae35dbd427d37
+guid: 85b0d93fc8a53e144a206e2e0f91527d
 ModelImporter:
   serializedVersion: 15
   fileIDToRecycleName:
-    100000: MainFrame
-    100002: //RootNode
-    400000: MainFrame
-    400002: //RootNode
-    2300000: MainFrame
-    3300000: MainFrame
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: MainFrame
     9500000: //RootNode
   materials:
@@ -27,12 +25,12 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: .00999999978
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     weldVertices: 1
@@ -41,9 +39,9 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
   tangentSpace:
-    normalSmoothAngle: 59
-    splitTangentsAcrossUV: 0
-    normalImportMode: 1
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
     tangentImportMode: 1
   importAnimation: 1
   copyAvatar: 0
