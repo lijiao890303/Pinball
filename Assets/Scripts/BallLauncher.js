@@ -29,7 +29,7 @@ function FixedUpdate ()
 		{
 			if(GameObject.Find("Ball").rigidbody)
 			{
-				GameObject.Find("Ball").rigidbody.velocity = Vector3(0,0,20);
+				GameObject.Find("Ball").rigidbody.velocity = Vector3(0,0,35);
 			}
 		}	
 	}	
